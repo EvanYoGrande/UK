@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+table {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #F1F1B2;
+	text-align: center;
+}
+.img1 {
+	width: 1000px;
+	height: 400px;
+}
+.img {
+	width: 500px;
+	height: 400px;
+}
+body {
+	background-color: #223656;
+}
+h1 {
+	color: #9F0C0F;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-style: italic;
+	font-variant: normal;
+	font-weight: 800;
+	font-size: 50px;
+}
+h2 {
+	color: #B92BCC;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-style: oblique;
+	font-variant: small-caps;
+	line-height: normal;
+}
+tr td h1 {
+}
+.h2 {
+	width: 70px;
+	height: 50px;
+}
+a:visited[color;white]
+a:hover[]
